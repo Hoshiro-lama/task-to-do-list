@@ -1,1 +1,2 @@
-# task-to-do-list
+# Simple TODO list
+Write on html css js using bootstrap framework
